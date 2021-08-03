@@ -1,6 +1,6 @@
 
 def br(x, k):
-## x is the decimal num and k is the amont of bits
+## x is the decimal num and k is the amount of bits
     x = int(x)
     k = int(k)
     if x >= 2**k:
